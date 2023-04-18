@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="50.714569"
+   height="50.714561"
+   viewBox="0 0 50.714569 50.714561"
+   sodipodi:docname="logo-light - kopie.png"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8"
+     transform="translate(138.18774,-20.262938)">
+    <g
+       id="g3229">
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke:#fffff1;stroke-width:0.891429;stroke-opacity:1"
+         id="path900"
+         cx="-103.55921"
+         cy="57.71619"
+         r="2.6734648" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.909744;stroke-opacity:1"
+         d="m -123.39237,34.004327 -0.11658,22.852102 c 0.0159,4.516324 5.29007,4.48257 5.36253,0 V 33.958986 c -0.0131,-4.470927 -5.20532,-4.267101 -5.24595,0.04534 z"
+         id="path956"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.059;stroke-opacity:1"
+         d="m -105.97368,32.77292 -9.0883,11.335954 c -1.45103,1.661447 -1.55671,2.874084 -0.0977,4.446431 l 4.3487,5.228221 c 2.0212,2.210222 5.77507,-0.199922 4.00668,-3.322608 l -3.32261,-4.544153 8.06221,-10.40758 c 2.453571,-2.880378 -1.87211,-5.546911 -3.90895,-2.736265 z"
+         id="path2707"
+         sodipodi:nodetypes="ccccccccc" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path2766-9"
+         cx="-112.83046"
+         cy="45.62022"
+         r="23.357283" />
+    </g>
+  </g>
+</svg>

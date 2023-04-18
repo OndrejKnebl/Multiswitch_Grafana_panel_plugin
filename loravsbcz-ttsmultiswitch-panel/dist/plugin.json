@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
+  "type": "panel",
+  "name": "TTS Multiswitch",
+  "id": "loravsbcz-ttsmultiswitch-panel",
+  "info": {
+    "keywords": ["panel"],
+    "description": "A panel plugin to control a multifunctional switching device by sending downlinks via TTS",
+    "author": {
+      "name": "Loravsbcz"
+    },
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [],
+    "screenshots": [],
+    "version": "1.0.0",
+    "updated": "2023-04-18"
+  },
+  "dependencies": {
+    "grafanaDependency": ">=9.3.8",
+    "plugins": []
+  }
+}
